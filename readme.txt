@@ -17,6 +17,6 @@ frequently.
 -----------------------
 solutioning
 1) The feature has been developed in node.js
-2)The pppliaction is consuming google map api (exposed).
-3)star ndoe js run - node server.js
+2)The appliaction is consuming google map api (exposed).
+3)start node js -run - node server.js
 4)In browser open -http://localhost:3000/
